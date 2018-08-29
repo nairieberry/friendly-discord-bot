@@ -1,1 +1,1 @@
-# friendly-discord-bot
+This cute discord bot replies with nice messages to cheer you up
