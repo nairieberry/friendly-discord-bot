@@ -35,27 +35,27 @@ client.on("message", async message => {
 	}
 	//bot repeats after you
 
-	if(command === 'good morning') {
+	if(command === "good morning") {
 	message.channel.send("Good morning!! >w<");
 	}
 
-	if(command === 'good afternoon') {
+	if(command === "good afternoon") {
 	message.channel.send("Good afternoon!! >w<");
 	}
 
-	if(command === 'good evening') {
+	if(command === "good evening") {
 	message.channel.send("Good evening!! >w<");
 	}
 
-	if(command === 'good night') {
+	if(command === "good night") {
 	message.channel.send("Good night, sweet dreams!! uwu");
 	}
 
-	if(command === 'hi') {
+	if(command === "hi") {
 	message.channel.send("Hi there!! owo");
 	}
 
-	if(command === 'motivate') {
+	if(command === "motivate") {
 	message.channel.send("You can do it!! c:");
 	}
 
